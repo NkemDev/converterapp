@@ -1,0 +1,35 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-repeat: no-repeat;
+  background: linear-gradient(#585dfe, #fb3796 40%, #1f2937 5%, #1f2937);
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+h2 {
+  padding-top: 2rem;
+}
+.unit {
+  font-size: 97.57px;
+  font-weight: 800;
+}
+.units-body {
+  font-weight: bold;
+}
+#length-measure {
+  margin-bottom: 4%;
+  font-weight: normal;
+}
+#volume-measure {
+  margin-bottom: 4%;
+  font-weight: normal;
+}
+#mass-measure {
+  margin-bottom: 4%;
+  font-weight: normal;
+}
